@@ -1,2 +1,2 @@
-# PJATK-prog-w
+# PJATK-prog-cw
 PJATK/programowanie ćwiczenia
